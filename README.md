@@ -1,0 +1,2 @@
+# pasteUpload
+for Chrome
